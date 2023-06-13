@@ -6,12 +6,12 @@ Note: Project needs a working Firebase backend, and as I deleted mine so it's no
 
 ## Gallery
 <div align="center">
- <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/b849acd2-bc14-49ca-8392-225419ca6613" width="30%"></img>&nbsp;&nbsp;&nbsp; 
- <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/570a8648-9695-46f9-8c21-15fc4accb3e3" width="30%"></img>&nbsp;&nbsp;&nbsp; 
- <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/2b6da084-399d-417e-b84c-3b15ebe85537" width="30%"></img>&nbsp;&nbsp;&nbsp; 
- <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/d9040794-23b0-4e6d-a8c5-d25a85b8969a" width="30%"></img>&nbsp;&nbsp;&nbsp; 
- <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/0cb1328a-0228-4d59-8ce1-b5a7d777a70b" width="30%"></img>&nbsp;&nbsp;&nbsp; 
- <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/89f74bdf-6109-47e4-b5d8-bb0a78079e86" width="30%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/97e0c4a0-f5c2-4e19-a816-12d91c5b76f0" width="30%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/c54860ff-e70f-4c01-8855-e420efcbcee7" width="30%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/aa0790f4-ad38-428a-ae1c-8b350ddc0773" width="30%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/020a39d3-adaa-4c9e-a3d4-6c1d042780dc" width="30%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/3fa3ef3d-41ca-49b4-baff-e9251cbcae61" width="30%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/37f642e0-ab46-4d7b-af4b-9fe97c958e02" width="30%"></img>&nbsp;&nbsp;&nbsp; 
 </div>
 
 ## Packages
