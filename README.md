@@ -2,6 +2,8 @@
 
 This is chat application made with Flutter with Firebase backend with various functionality. Users can log in, create accounts and chat in a single channel. Users also get notification about the messages.
 
+Note: Project needs a working Firebase backend, and as I deleted mine so it's not working in this state. You need your own API key and project to run this app.
+
 ## Gallery
 <div align="center">
  <img src="https://github.com/RolandMarton/flutter_chat_app/assets/88943189/b849acd2-bc14-49ca-8392-225419ca6613" width="30%"></img>&nbsp;&nbsp;&nbsp; 
